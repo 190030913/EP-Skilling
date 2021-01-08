@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Students>
+	<student sid="a">
+		<name> Jyothsna </name>
+		<email> j@c.c </email>
+		<marks> 98 </marks>
+		<class> 9 </class>
+	</student>
+	<student sid="b">
+		<name> preethi </name>
+		<email> p@c.c </email>
+		<marks> 91 </marks>
+		<class> 10 </class>
+	</student>
+	<student sid="c">
+		<name> sushma </name>
+		<email> s@c.c </email>
+		<marks> 90 </marks>
+		<class> 8 </class>
+	</student>
+	<student sid="d">
+		<name> anitha </name>
+		<email> a@c.c </email>
+		<marks> 93 </marks>
+		<class> 7 </class>
+	</student>
+	<student sid="e">
+		<name> Bhavana </name>
+		<email> b@c.c </email>
+		<marks> 95 </marks>
+		<class> 10 </class>
+	</student>
+</Students>
